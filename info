@@ -1,0 +1,8 @@
+Permissão necessária:
+https://docs.aws.amazon.com/pt_br/ses/latest/DeveloperGuide/control-user-access.html#iam-and-ses-examples-email-sending-actions
+
+Doc AWS:
+https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ses-examples-sending-email.html
+
+Obs.:
+O arquivo ~/.aws/credentials dve ser criaado
